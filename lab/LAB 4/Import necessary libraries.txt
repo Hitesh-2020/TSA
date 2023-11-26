@@ -1,0 +1,20 @@
+Import necessary libraries 
+
+Read the Google stock price data using pandas 
+
+Preview the data using head command 
+
+Set the date column as index
+
+Keep only date and close price column for further analysis, and drop the remaining column
+
+Plot the closing price visually inspect whether the data is stationary or not
+Split the data in 3 parts and calculate the mean and variance of each part and check if that satisfies the stationary condition
+
+Calculate the rolling mean and plot the graph 
+
+You may apply any three differencing methods to make that data stationary and also plot each graph to see the before and after difference 
+
+and also apply ADF and KPSS method to check and prove if that data has become stationary or not after each differencing methods.
+
+Rest follow the same to implement AR model as given in reference shared python code.
